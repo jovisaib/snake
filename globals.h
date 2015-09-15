@@ -1,0 +1,7 @@
+#ifndef GLOBALS_H_INCLUDED
+#define GLOBALS_H_INCLUDED
+
+const int SCR_WIDTH = 240;
+const int SCR_HEIGHT = 240;
+
+#endif // GLOBALS_H_INCLUDED

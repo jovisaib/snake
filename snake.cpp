@@ -1,6 +1,5 @@
 #include "snake.h"
 #include "game.h"
-#include "iostream"
 
 
 Snake::Snake(Food* food){
